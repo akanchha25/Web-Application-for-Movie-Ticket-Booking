@@ -1,6 +1,6 @@
 
 
-**Movie Booking and Recommendation Website**
+
 [![Movie Booking Website](/sample/movie_booking.gif)]()
 
 # Movie-Booking-WebApp
